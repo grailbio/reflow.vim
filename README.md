@@ -1,5 +1,5 @@
 # reflow.vim
-Very basic syntax highlighting for Reflow files in Vim
+Very basic syntax highlighting for [Reflow](https://github.com/grailbio/reflow) files in Vim
 
 ![screenshot](screenshot.png)
 
